@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/span-4/Tic-tak.git/static/css/main.ac8eb1cd.css",
+    "main.js": "/span-4/Tic-tak.git/static/js/main.08725052.js",
+    "static/js/488.2cb716d4.chunk.js": "/span-4/Tic-tak.git/static/js/488.2cb716d4.chunk.js",
+    "index.html": "/span-4/Tic-tak.git/index.html",
+    "main.ac8eb1cd.css.map": "/span-4/Tic-tak.git/static/css/main.ac8eb1cd.css.map",
+    "main.08725052.js.map": "/span-4/Tic-tak.git/static/js/main.08725052.js.map",
+    "488.2cb716d4.chunk.js.map": "/span-4/Tic-tak.git/static/js/488.2cb716d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8eb1cd.css",
+    "static/js/main.08725052.js"
+  ]
+}
